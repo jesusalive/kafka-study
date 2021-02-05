@@ -1,4 +1,4 @@
-## :key: Domínio
+## :key: Domain
 
 Essa camada armazena toda a regra de negócio, especificamente as entidades, value objects e interface de usecase e repositories.
 
